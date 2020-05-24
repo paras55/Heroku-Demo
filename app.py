@@ -1,7 +1,7 @@
 from flask import Flask, render_template,request,jsonify
 #from flask_socketio import SocketIO, emit,send,request,jsonify
 #from flask_ngrok import run_with_ngrok
-from flask_cors import CORS, cross_origin
+#from flask_cors import CORS, cross_origin
 import random 
 import time 
 import numpy
