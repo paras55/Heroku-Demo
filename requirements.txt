@@ -9,7 +9,4 @@ pandas>=0.19
 tensorflow==1.15
 tflearn
 nltk
-json
-os
-pickle
 
